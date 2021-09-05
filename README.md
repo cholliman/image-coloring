@@ -14,4 +14,4 @@ Colored Image:
 
 Pixel Form:
 
-![](/images/pixel_garou.png)
+![](/images/large_pixel_garou.png)
